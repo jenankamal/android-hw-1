@@ -1,0 +1,13 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         int
+         System.out.println(1);
+         double
+         System.out.println(1.5);
+         char
+         System.out.println('j');
+         
+     }
+     
+}
